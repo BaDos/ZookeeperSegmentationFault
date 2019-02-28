@@ -16,5 +16,5 @@ Notice: Undefined offset: 3 in /Users/bohdan/Sites/console-test/src/TestCommand.
 
 # Reproduced on:
 - PHP version: 7.1.15, 7.1.26, 7.2.15
-- OS: MaOS, Linux
+- OS: MacOS, Linux
 - Zookeeper version: 0.6.3, 0.7.0
